@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ravi.bhatt@e2m.solutions"><img src="https://img.shields.io/badge/Email-ravi.bhatt%40e2m.solutions-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto:ravihbhatt05@gmail.com"><img src="https://img.shields.io/badge/Email-ravihbhatt05%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://github.com/Ravi-H-Bhatt"><img src="https://img.shields.io/github/followers/Ravi-H-Bhatt?label=Follow&style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI & Full Stack Developer** at E2M Solutions, specializing in building intelligent applications that solve real-world problems. I love working with cutting-edge technologies and creating seamless user experiences.
+I'm a passionate **AI & Full Stack Developer** specializing in building intelligent applications that solve real-world problems. I love working with cutting-edge technologies and creating seamless user experiences.
 
 - 🔭 Currently working on **AI-powered applications** and **intelligent systems**
 - 🌱 Exploring **LLMs, RAG systems, and autonomous agents**
@@ -124,7 +124,7 @@ I'm a passionate **AI & Full Stack Developer** at E2M Solutions, specializing in
 I'm always interested in collaborating on innovative projects and discussing new technologies!
 
 <p align="center">
-  <a href="mailto:ravi.bhatt@e2m.solutions">
+  <a href="mailto:ravihbhatt05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ravi-H-Bhatt">
