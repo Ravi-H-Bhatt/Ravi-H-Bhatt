@@ -65,7 +65,7 @@ Automated meeting transcription with intelligent Q&A, insights extraction, and c
 
 ---
 
-### 📚 [BrandBrain](https://github.com/Ravi-H-Bhatt/BrandBrain)
+### 📚 [BrandBrain](https://github.com/Ravi-H-Bhatt/BrandBrain) • [🌐 Live Demo](https://brand-brain-one.vercel.app)
 
 **AI-Powered Content Manager**
 
@@ -95,6 +95,17 @@ Robust integration framework for connecting and managing MCP servers.
 
 **Tech Stack:** Node.js • TypeScript • Modern JS  
 **Features:** Easy MCP integration • Error handling • Type safety
+
+---
+
+### 💰 [Expense Tracker](https://github.com/Ravi-H-Bhatt/expense-tracker) • [🌐 Live Demo](https://expense-tracker-rk5-six.vercel.app)
+
+**Personal Finance Management**
+
+Track expenses, manage budgets, and visualize spending patterns with an intuitive interface.
+
+**Tech Stack:** TypeScript • React • Modern UI  
+**Features:** Expense tracking • Budget management • Data visualization • Category management
 
 ---
 
